@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1442864337 source:e:\ai\ai1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<sstream>
+	<iterator>
+	<climits>
+	<list>
+	<queue>
+	<stack>
+	<algorithm>
+	<map>
+	<string>
+	<math.h>
+
