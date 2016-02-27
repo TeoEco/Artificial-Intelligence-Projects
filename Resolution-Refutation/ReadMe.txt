@@ -1,0 +1,24 @@
+Instructions for compiling and running the main.cpp file :
+
+The code is in C++ under the file name main.cpp 
+
+There are two files included:
+1. example1KB.txt
+	This file has the example1.kb given in the assignment.
+2. example.txt
+	This file contains the knowledge base for Sammy's sport shop.
+
+By default the main.cpp file uses the knowledge base for Sammy's sport shop i.e. example.txt but you 
+can change the input by editing inside the code and replacing the filename as example1KB.txt on line #385.
+
+* You can give any knowledge base file name on line #385 and then compile and run the code.
+
+Build and run the cpp file and wait for the result to pull up on the screen. 
+
+The screen will display the number of iterations, maximum queue size and the proof tree showing the sequence 
+of resolutions is resolved successfully else a failure message.
+
+* If you want you can give different inputs to sammy's sports shop file i.e. example.txt
+* You can change the last line of the example.txt file to any input and see if that's a valid input or not.
+
+** Knowledge base file also included as KB.txt

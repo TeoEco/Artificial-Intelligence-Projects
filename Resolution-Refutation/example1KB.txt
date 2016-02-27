@@ -1,0 +1,7 @@
+-P -Q R S
+-A -R
+A
+P
+Q
+# negation of the quesry
+-S
